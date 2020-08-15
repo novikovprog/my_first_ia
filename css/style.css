@@ -42,7 +42,7 @@ h2 {
   height: 3rem;
   font-size: 22px;
 }
-
+/*--------------------------------------------BOUTON VALIDER (source dans index.html)------------------------------*/
 .guessSubmit {
   width: 120px;
   height: 35px;
@@ -71,7 +71,7 @@ h2 {
   background-color: transparent;
   padding: 3px;
 }
-
+/*----------------------------------BOUTON RECOMMENCER (source dans code.js)--------------------------------*/
 button {
   width: 140px;
   height: 45px;
@@ -89,7 +89,3 @@ button {
   cursor: pointer;
   outline: none;
   }
-
-.sign {
-  margin-top: 150px;
-}
